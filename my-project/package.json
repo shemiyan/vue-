@@ -15,6 +15,8 @@
     "stylus": "^0.52.4",
     "stylus-loader": "^2.5.1",
     "vue": "^2.4.2",
+    "vue-resource": "^1.3.4",
+    "vue-resourse": "^1.3.4",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
